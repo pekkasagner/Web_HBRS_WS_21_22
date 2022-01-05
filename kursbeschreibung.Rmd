@@ -34,6 +34,6 @@ Im Kurs lernen die Studierenden die Grundkonzepte der Datenanalyse: Einlesen, Or
 +	Der Kurs besteht auf Vorlesungs- und Übungszeiten sowie selbständiger Eigenleistung in Form von Übungsaufgaben. Im Vorlesungsteil werden Konzepte und Strukturen theoretisch eingeführt, die in den praktischen Übungsteilen vertieft werden.
 
 ### Prüfungsform (Bedingungen Leistungsnachweis)
-+	Aktive, engagierte Beteiligung am Ergänzungsfach eigenständige Erbringung der geforderten 
-Leistungen in entsprechender Qualität 
-+	Anwesenheit mind. 80% der vorgesehenen Zeit (Teammeetings), Teilnahme an Präsentationen
++	Aktive, engagierte Beteiligung am Ergänzungsfach 
++ Eigenständige Erbringung der geforderten Leistungen in entsprechender Qualität 
++	Anwesenheit mindestens 80% der vorgesehenen Zeit (Teammeetings), Teilnahme an Präsentationen

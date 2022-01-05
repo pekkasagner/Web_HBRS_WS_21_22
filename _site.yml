@@ -13,7 +13,10 @@ navbar:
       href: semesterplan.html
     - text: "Kursinhalte"
       icon: fa-list
-      href: kursinhalte.html     
+      href: kursinhalte.html
+    - text: "Abschlusspräsentation"
+      icon: fa-chalkboard
+      href: praesentation.html   
     - text: "Kontakt"
       icon: fa-address-book
       href: kontakt.html    

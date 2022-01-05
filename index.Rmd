@@ -1,10 +1,6 @@
 ---
-title: "Datenanalyse und -visualisierung mit R"
+title: "Datenanalyse und -visualisierung mit R (DAVR)"
 subtitle: "Ergänzungsfach an der Hochschule Bonn-Rhein-Sieg im WS 21-22"
 ---
 
-Hello, Website!
-
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
-
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+Diese Webseite begleitet das Ergänzungsfach Datenanalyse und -visualisierung mit R. Der Bereich [`r fontawesome::fa("project-diagram")` Kursbeschreibung](./kursbeschreibung.html) enthält eine Kurzbeschreibung der Lerninhalte. Unter [`r fontawesome::fa("calendar")` Semesterplan](./docs/semesterplan.html) finden Sie die geplanten Vorlesungstermine und deren Thema mit Datum und Ort. Die [`r fontawesome::fa("list")` Kursinhalte](./docs/semesterplan.html) bestehen aus Leseempfehlungen und den Vorlesungs- und Übungsmaterialien. Im Reiter Die [`r fontawesome::fa("chalkboard")` Abschlusspräsentation](./docs/praesentation.html) finden Sie Hinweise zur Abschlusspräsentation am Ende des Semesters. 
