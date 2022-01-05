@@ -1,0 +1,85 @@
+---
+title: "Kursinhalte"
+description: "Wintersemester 2021/22"
+author: " "
+date: " "
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: true
+    number_sections: false
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Leseempfehlungen, Vorlesungensfolien und Übungsaufgaben
+
+Jede Vorlesung besteht aus einer Sammlung aus empfohlener Literatur, Vorlesungsfolien und zugehörigen Übungsaufgaben, einschließlich einer kompakten Musterlösung.
+
+## 1. Kursinhalte und Organisatorisches {.tabset .tabset-fade}
+
+In dieser Sitzung besprechen wir die Inhalte der Vorlesung, installieren R und R-Studio (falls noch nicht geschehen) und orientieren uns in der Benutzeroberfläche von R-Studio. Darüber hinaus besprechen wir organisatorische Dinge, wie den Semesterplan und die finale Präsentation, die für das erfolgreiche Abschließen des Kurses (ECTS-Punkte) notwendig ist. Im Übungsteil machen wir uns mit verschiedenen Datentypen in R und der grundlegenden Syntax mathematischer und logischer Operatoren vertraut.
+
+### Leseempfehlungen
+
++ [What is R?](https://www.r-project.org/about.html)
+
++ [What is R-Studio?](https://en.wikipedia.org/wiki/RStudio)
+
++ [An Introduction to R, Kapitel 1 & 2 (Douglas et al., 2021)](https://intro2r.com/chap1.html)
+
+### Vorlesungsfolien
+
+[`r fontawesome::fa("file-pdf")` Folien &raquo;Kursüberblick&laquo; als PDF-Datei öffnen](./unterlagen/vorlesungen/01_Vorlesung_Kursueberblick.pdf) 
+
+[`r fontawesome::fa("file-pdf")` Folien &raquo;Erste Schritte&laquo; als PDF-Datei öffnen](./unterlagen/vorlesungen/02_Vorlesung_Erste_Schritte.pdf) 
+
+
+### Übungsaufgaben
+
+[`r fontawesome::fa("file-pdf")` Übungsblatt &raquo;Hinweise zur Installation von R und RStudio&laquo; als PDF-Datei öffnen](./unterlagen/uebungsaufgaben/00_Uebungsblatt_Hinweise_Installation.pdf) 
+
+[`r fontawesome::fa("file-pdf")` Übungsblatt &raquo;Übungsblatt 1 - Erste Schritte mit R und R-Studio&laquo; als PDF-Datei öffnen](./unterlagen/uebungsaufgaben/01_Uebungsblatt_Erste_Schritte.pdf) 
+
+### Musterlösung
+
+[`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 1 - Erste Schritte mit R und R-Studio&laquo; als R-Datei öffnen](./unterlagen/musterloesungen/uebung_1.R)
+
+### Daten
+
+`r fontawesome::fa("file-archive")` Keine Daten
+
+
+## 2. Datenanalyse mit dem Tidyverse {.tabset .tabset-fade}
+
+In dieser Sitzung lernen wir das `Tidyverse` kennen. Das Tidyverse ist eine Sammlung von R-Paketen, die für die Data Science entwickelt wurden. Alle Pakete teilen eine
+zugrunde liegende Design-Philosophie, Grammatik und Datenstrukturen. Wir beschäftigen uns mit der Erweiterbarkeit von Base-R mit Paketen und lernen die moderne Syntax für die Datenanalyse kennen, die wir im Rest des Kurses vertiefen. Darüber hinaus entwickeln wir ein grundsätzliches Verständnis der häufigsten Schritte bei der Datenmanipulation und lernen das Konzept der `Tidy Data` kennen.
+
+### Leseempfehlungen
+
++ [Tidyverse Cookbook (Grolemund, 2020)](https://rstudio-education.github.io/tidyverse-cookbook/)
+
+### Vorlesungsfolien
+
+[`r fontawesome::fa("file-pdf")` Folien &raquo;Einführung in das Tidyverse&laquo; als PDF-Datei öffnen](./unterlagen/vorlesungen/03_Vorlesung_Tidyverse.pdf) 
+
+
+### Übungsaufgaben
+
+[`r fontawesome::fa("file-pdf")` Übungsblatt &raquo;Übungsblatt 2 - Einführung in das Tidyverse&laquo; als PDF-Datei öffnen](./unterlagen/uebungsaufgaben/02_Uebungsblatt_Intro_Tidyverse.pdf) 
+
+### Musterlösung
+
+[`r fontawesome::fa("code")` Musterlösung für &raquo;Übungsblatt 2 - Einführung in das Tidyverse&laquo; als R-Datei öffnen](./unterlagen/musterloesungen/uebung_2.R)
+
+### Daten
+
+[`r fontawesome::fa("file-archive")` Datensatz &raquo;olympics&laquo; als CSV-Datei öffnen](./unterlagen/daten/olympics.csv)
+
+
+
+
