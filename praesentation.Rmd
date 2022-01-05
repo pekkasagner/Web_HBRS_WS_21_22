@@ -16,9 +16,9 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Grundsätzliche Idee
- 
 [`r fontawesome::fa("file-pdf")` Hinweise zur Abschlusspräsentation als PDF-Datei öffnen](./unterlagen/uebungsaufgaben/Anforderungen_Präsentation.pdf) 
+
+# Grundsätzliche Idee
  
 Ihre Präsentation soll zeigen, dass Sie sich mit den Inhalten der Vorlesung vertraut gemacht haben. Sie sollen in einer eigenen Datenanalyse das Gelernte anwenden. Die finale Präsentation soll Sie darüber hinaus motivieren, sich weitere Konzepte der Datenanalyse und -visualisierung mit R, die über die Vorlesungsinhalte hinausgehen, anzueignen.
 

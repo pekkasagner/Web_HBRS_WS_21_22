@@ -53,8 +53,8 @@ In dieser Sitzung besprechen wir die Inhalte der Vorlesung, installieren R und R
 
 ## 2. Datenanalyse mit dem Tidyverse {.tabset .tabset-fade}
 
-In dieser Sitzung lernen wir das `Tidyverse` kennen. Das Tidyverse ist eine Sammlung von R-Paketen, die für die Data Science entwickelt wurden. Alle Pakete teilen eine
-zugrunde liegende Design-Philosophie, Grammatik und Datenstrukturen. Wir beschäftigen uns mit der Erweiterbarkeit von Base-R mit Paketen und lernen die moderne Syntax für die Datenanalyse kennen, die wir im Rest des Kurses vertiefen. Darüber hinaus entwickeln wir ein grundsätzliches Verständnis der häufigsten Schritte bei der Datenmanipulation und lernen das Konzept der `Tidy Data` kennen.
+In dieser Sitzung lernen wir das Tidyverse kennen. Das Tidyverse ist eine Sammlung von R-Paketen, die für die Data Science entwickelt wurden. Alle Pakete teilen eine
+zugrunde liegende Design-Philosophie, Grammatik und Datenstrukturen. Wir beschäftigen uns mit der Erweiterbarkeit von Base-R mit Paketen und lernen die moderne Syntax für die Datenanalyse kennen, die wir im Rest des Kurses vertiefen. Darüber hinaus entwickeln wir ein grundsätzliches Verständnis der häufigsten Schritte bei der Datenmanipulation und lernen das Konzept der Tidy Data kennen.
 
 ### Leseempfehlungen
 
@@ -140,7 +140,7 @@ Ein großer Teil der Zeit, die wir &raquo;im echten Leben&laquo; mit der Datenan
 
 [`r fontawesome::fa("file-archive")` Datensatz &raquo;Einkommen_Kreise&laquo; als xlsx-Datei öffnen](./unterlagen/daten/Einkommen_Kreise.xlsx)
 
-## 5. Zusammenführen mehrerer Datensätze {.tabset .tabset-fade}
+## 5. Daten verbinden {.tabset .tabset-fade}
 
 Ein Datensatz alleine kann für sich genommen spannende Erkenntnisse bergen. Häufig wird jedoch von uns erwartet, Datensätze aus verschiedenen Quellen zu kombinieren, so neue Forschungsfragen zu generieren und deren Antwort zu finden. In diesem Teil der Veranstaltung lernen wir die verschiedenen Arten kennen, mit denen wir relationale Daten kombinieren können.
 
